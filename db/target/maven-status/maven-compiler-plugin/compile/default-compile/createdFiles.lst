@@ -1,0 +1,5 @@
+com/javamultiplex/db/repository/StudentRepository.class
+module-info.class
+com/javamultiplex/db/entity/Student.class
+com/javamultiplex/db/config/DBConfig.class
+com/javamultiplex/db/service/StudentService.class

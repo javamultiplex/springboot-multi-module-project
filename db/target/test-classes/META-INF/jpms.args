@@ -1,0 +1,4 @@
+--patch-module
+com.javamultiplex.modules.db=_
+--add-reads
+com.javamultiplex.modules.db=ALL-UNNAMED

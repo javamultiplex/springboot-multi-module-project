@@ -1,0 +1,4 @@
+--patch-module
+com.javamultiplex.modules.application=_
+--add-reads
+com.javamultiplex.modules.application=ALL-UNNAMED

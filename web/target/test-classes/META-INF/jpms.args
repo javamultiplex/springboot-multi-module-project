@@ -1,0 +1,4 @@
+--patch-module
+com.javamultiplex.modules.web=_
+--add-reads
+com.javamultiplex.modules.web=ALL-UNNAMED

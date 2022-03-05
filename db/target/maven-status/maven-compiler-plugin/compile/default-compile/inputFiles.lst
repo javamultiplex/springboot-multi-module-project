@@ -1,0 +1,5 @@
+/Users/rohit/projects/springboot-multi-module-project/db/src/main/java/com/javamultiplex/db/repository/StudentRepository.java
+/Users/rohit/projects/springboot-multi-module-project/db/src/main/java/com/javamultiplex/db/service/StudentService.java
+/Users/rohit/projects/springboot-multi-module-project/db/src/main/java/module-info.java
+/Users/rohit/projects/springboot-multi-module-project/db/src/main/java/com/javamultiplex/db/config/DBConfig.java
+/Users/rohit/projects/springboot-multi-module-project/db/src/main/java/com/javamultiplex/db/entity/Student.java
